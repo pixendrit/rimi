@@ -15,13 +15,13 @@ Rimi Com është furnizues i materialeve të lidhura me rrethoja dhe rrethime p�
 
 # Produktet
 
-* Llamperi
-* [](https://github.com/netlify/netlify-cms)Garnishte
-* Llajnse të plastikës -PVC
-* Panell 3d- rrethojë për kopshte, objekte
+* Panel 3d - rrethojë për kopshte, objekte
+* [](https://github.com/netlify/netlify-cms)Llamperia
+* Garnishte
 * Fasada
 * Pollicolor
 * Llaqe
+* Rrjeta të gurëve (Gabion Box)
+* Rrjeta të salduara
 
 ## [Vizitoni produktet](https://vigilant-lovelace-1810f1.netlify.app/components/)
-
