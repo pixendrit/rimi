@@ -1,44 +1,16 @@
 ---
 template: DefaultPage
 slug: default
-title: Default
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+title: Rreth Nesh
+featuredImage: https://ucarecdn.com/6b751b63-3467-455b-bc72-d7cec6c967bb/
 meta:
-  description: test meta description
-  title: test meta title
+  description: wtfwtvf
+  title: wtf
+  noindex: false
+  canonicalLink: www.pixendrit.com
 ---
 
-## This is the DefaultPage template
+## RIMI COM është ndër kompanitë e para në fushën e shërbimit dhe në procesin e prodhimit të llamperisë, garnishteve dhe llajsneve të plastikës, që nga viti 2002.
 
-Paragraphs are separated by a blank line.
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
-
-### Unordered lists:
-
-- this one
-- that one
-- the other one
-
-### Ordered lists:
-
-1.  first item
-1.  second item
-1.  third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+>Rimi Com është themeluar me traditë familjare duke u bazuar si biznes shumëvjeçar. Puna e palodhshme dhe angazhimi i pakursyer  ishin komponentët kryesore që shpien ne krijimin e këtij biznesi familjar. Gjatë këtyre viteve ne si kompani kemi zgjeruar kapacitetin e prodhimit si dhe stafin profesional ndaj nuk dëshirojmë t’ju ofrojmë vetëm të bukuren por edhe cilësinë maksimale. Rruga jonë është  e sigurtë drejt zhvillimit dhe rritjes së mëtutjeshme të kompanisë sepse jemi të përkushtuar drejt kërkesave të klientëve. Nën idetë, drejtimin dhe udhëheqjen e stafit, Rimi Com tani u bë një nga shoqëritë më të mëdha të shitjes së produkteve të caktuara të plastikes në tregun e Kosovës. Kompania është e angazhuar në kryerjen e biznesit në mënyrë etike për të ruajtur besimin e klientëve dhe palëve të tjera të interesit si dhe duke ofruar zgjidhje të përshtatshme.
