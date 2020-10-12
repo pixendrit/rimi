@@ -240,6 +240,7 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }
+                - { name: video, label: video, widget: file }
 
   - name: infoPages
     label: Info Page
