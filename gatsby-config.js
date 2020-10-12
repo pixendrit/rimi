@@ -44,11 +44,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'yellowcake',
-        short_name: 'yellowcake',
+        name: 'rimi',
+        short_name: 'rimi',
         start_url: '/',
-        background_color: '#00C2BD',
-        theme_color: '#f58220',
+        background_color: '#F58220',
+        theme_color: '#F58220',
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
         display: 'standalone',
