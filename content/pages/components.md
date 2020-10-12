@@ -30,7 +30,7 @@ section2: >+
   >Ofrojmë shërbime me garancion të plotë
 
 video: https://ucarecdn.com/990b54d5-56a8-4fa8-88f8-9a221ab49499/
-videoPoster: https://ucarecdn.com/d2c7edc9-3438-4de3-9e71-b5fbe25364b7/
+videoPoster: https://ucarecdn.com/5187351b-aeca-4c81-8693-e05438d6a0d1/
 videoTitle: Dere Rreshqitese me Motorr Automatik, pune profesionale e perfunduar. 🚘🏡
 accordion:
   - title: pytje
