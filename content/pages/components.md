@@ -19,9 +19,9 @@ section2: |-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
-video: https://ucarecdn.com/ea3bccdf-0ddf-49dc-a20b-5ddee179165b/
-videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
-videoTitle: Also background videos, with poster image & title overlay.
+video: https://ucarecdn.com/990b54d5-56a8-4fa8-88f8-9a221ab49499/
+videoPoster: https://ucarecdn.com/d2c7edc9-3438-4de3-9e71-b5fbe25364b7/
+videoTitle: Dere Rreshqitese me Motorr Automatik, pune profesionale e perfunduar. 🚘🏡
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
