@@ -10,7 +10,7 @@ email: rimi.com@hotmail.com
 locations:
   - lat: "42.451418"
     lng: "21.168041"
-    mapLink: ""
+    mapLink: https://www.google.com/maps/place/Balkans/@42.2907169,21.0097362,11z/data=!4m16!1m10!4m9!1m4!2m2!1d21.1483281!2d42.3701844!4e1!1m3!2m2!1d21.1680415!2d42.451418!3m4!1s0x13568040c211aea7:0xfdff7f63490b475d!8m2!3d41.8101472!4d21.0937311
 meta:
   description: ketu mund te na kontaktoni
   title: Kontakt
