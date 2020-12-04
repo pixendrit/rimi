@@ -20,7 +20,7 @@ export const ContactPageTemplate = ({
   email,
   locations
 }) => (
-  <main className="Contact">
+  <main className="Kontakt">
     <PageHeader
       title={title}
       subtitle={subtitle}

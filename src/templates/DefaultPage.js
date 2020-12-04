@@ -13,7 +13,7 @@ export const DefaultPageTemplate = ({
   featuredImage,
   body
 }) => (
-  <main className="DefaultPage">
+  <main className="Rreth Nesh">
     <PageHeader
       title={title}
       subtitle={subtitle}

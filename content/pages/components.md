@@ -7,41 +7,45 @@ subtitle: RIMI COM është ndër kompanitë e para në fushën e shërbimit dhe 
   procesin e prodhimit të llamperisë, garnishteve dhe llajsneve të plastikës, që
   nga viti 2002.
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  ## Sherbimet që ofrojmë:
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
-section2: |-
-  ## You can use videos, images and text.
+  1. Asistencë e shitjes
 
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  2. Kujdesi ndaj klientit
+
+  3. Agjenti i terrenit
+
+  4. Transport
+
+  5. Suport dhe garancion
+
+     
+  >Stafi i kompanisë Rimi Com ju mundëson transport të sigurtë në gjithë Kosovën.
+section2: >+
+  ## Qëllimi ynë është të sigurojmë një shërbim cilësor për klientët tanë
+  kurdoherë që na kontaktojnë, përmes telefonit ose e-mailit
+
+
+  >Ofrojmë shërbime me garancion të plotë
+
 video: https://ucarecdn.com/990b54d5-56a8-4fa8-88f8-9a221ab49499/
-videoPoster: https://ucarecdn.com/d2c7edc9-3438-4de3-9e71-b5fbe25364b7/
+videoPoster: https://ucarecdn.com/5187351b-aeca-4c81-8693-e05438d6a0d1/
 videoTitle: Dere Rreshqitese me Motorr Automatik, pune profesionale e perfunduar. 🚘🏡
 accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+  - title: pytje
+    description: pergjigje
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+  - alt: Garnishte
+    image: https://ucarecdn.com/29932671-0c32-40ff-a7ca-50dd3ef684f3/
+    title: Garnishte
+  - alt: rrjeta per gure
+    image: https://ucarecdn.com/38b62b0a-01ed-4b16-a9f1-34b10a4eee04/
+    title: Rrjeta per gurë
+  - alt: panel 3d
+    image: https://ucarecdn.com/3f6b9b7b-3673-450e-9c1b-3fcf57680521/
+    title: panel 3d
 meta:
-  description: This is a meta description.
-  title: Components Page
+  description: Sherbimet
+  title: Produktet
 ---
