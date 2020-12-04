@@ -4,8 +4,8 @@ slug: default
 title: Rreth Nesh
 featuredImage: https://ucarecdn.com/6b751b63-3467-455b-bc72-d7cec6c967bb/
 meta:
-  description: wtfwtvf
-  title: wtf
+  description: biznes shumëvjeçar
+  title: Rreth Nesh
   noindex: false
   canonicalLink: www.pixendrit.com
 ---
