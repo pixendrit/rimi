@@ -1,6 +1,6 @@
 ---
 template: ComponentsPage
-slug: produktet
+slug: components
 title: Produktet & Shërbimet
 featuredImage: https://ucarecdn.com/a62f9a77-3e02-4d6f-a8db-9fc6f45d4bb6/
 subtitle: RIMI COM është ndër kompanitë e para në fushën e shërbimit dhe në
