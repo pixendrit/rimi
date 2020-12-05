@@ -6,8 +6,10 @@ featuredImage: https://ucarecdn.com/ad612ae0-4c6a-4101-b0f1-9d8b83bc6f5a/
 subtitle: "### \\- Ne bëjmë rrethojën!"
 accordion: []
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: |-
+    Prodhues i Llamperis,Garnishteve, Llajsneve te Plastikes-PVC.
+    Panell 3D (Rrethoj per kopshte,objekte)
+  title: Rimi Com
 ---
 # Rreth Nesh
 
@@ -18,9 +20,6 @@ Rimi Com është furnizues i materialeve të lidhura me rrethoja dhe rrethime p�
 * Panel 3d - rrethojë për kopshte, objekte
 * [](https://github.com/netlify/netlify-cms)Llamperia
 * Garnishte
-* Fasada
-* Pollicolor
-* Llaqe
 * Rrjeta të gurëve (Gabion Box)
 * Rrjeta të salduara
 

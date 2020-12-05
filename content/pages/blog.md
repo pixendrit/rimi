@@ -1,10 +1,10 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: Galeria
+featuredImage: https://ucarecdn.com/afa2ad8d-f249-457d-9998-ff2058abdee2/
+subtitle: Koleksioni i produkteve
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: Të gjitha produktet
+  title: Galeria
 ---
