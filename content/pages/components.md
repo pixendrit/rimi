@@ -22,13 +22,13 @@ section1: >-
 
      
   >Stafi i kompanisë Rimi Com ju mundëson transport të sigurtë në gjithë Kosovën.
-section2: >+
-  ## Qëllimi ynë është të sigurojmë një shërbim cilësor për klientët tanë
-  kurdoherë që na kontaktojnë, përmes telefonit ose e-mailit
+section2: >-
+  
+
+  ## Qëllimi ynë është të sigurojmë një shërbim cilësor për klientët tanë kurdoherë që na kontaktojnë, përmes telefonit ose e-mailit
 
 
-  >Ofrojmë shërbime me garancion të plotë
-
+  > Ofrojmë shërbime me garancion të plotë
 video: https://ucarecdn.com/990b54d5-56a8-4fa8-88f8-9a221ab49499/
 videoPoster: https://ucarecdn.com/5187351b-aeca-4c81-8693-e05438d6a0d1/
 videoTitle: Dere Rreshqitese me Motorr Automatik, pune profesionale e perfunduar. 🚘🏡
@@ -38,7 +38,8 @@ accordion:
 gallery:
   - alt: Garnishte
     image: https://ucarecdn.com/29932671-0c32-40ff-a7ca-50dd3ef684f3/
-    title: Garnishte
+    title: " [Kliko për të shikuar të gjitha
+      fotot](https://www.rimi-ks.com/garnishte/)"
   - alt: rrjeta per gure
     image: https://ucarecdn.com/38b62b0a-01ed-4b16-a9f1-34b10a4eee04/
     title: Rrjeta per gurë
