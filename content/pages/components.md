@@ -56,8 +56,12 @@ section2: >-
 video: https://ucarecdn.com/990b54d5-56a8-4fa8-88f8-9a221ab49499/
 videoPoster: https://ucarecdn.com/5187351b-aeca-4c81-8693-e05438d6a0d1/
 videoTitle: Dere Rreshqitese me Motorr Automatik, pune profesionale e perfunduar. 🚘🏡
-accordion: []
-gallery: []
+accordion:
+  - title: Sa vite garancion ofroni?
+    description: Ne ofrojme 20 vite garancion
+gallery:
+  - image: https://ucarecdn.com/86b77908-cd79-43d5-9ad2-17e0e43bd0d8/
+    alt: detaje
 meta:
   description: Sherbimet
   title: Produktet
