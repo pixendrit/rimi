@@ -3,9 +3,13 @@ template: ComponentsPage
 slug: components
 title: Produktet & Shërbimet
 featuredImage: https://ucarecdn.com/a62f9a77-3e02-4d6f-a8db-9fc6f45d4bb6/
-subtitle: RIMI COM është ndër kompanitë e para në fushën e shërbimit dhe në
-  procesin e prodhimit të llamperisë, garnishteve dhe llajsneve të plastikës, që
-  nga viti 2002.
+subtitle: >+
+  RIMI COM është ndër kompanitë e para në fushën e shërbimit dhe në procesin e
+  prodhimit të llamperisë, garnishteve dhe llajsneve të plastikës, që nga viti
+  2002.
+
+
+
 section1: >-
   ## Sherbimet që ofrojmë:
 
@@ -20,8 +24,28 @@ section1: >-
 
   5. Suport dhe garancion
 
-     
-  >Stafi i kompanisë Rimi Com ju mundëson transport të sigurtë në gjithë Kosovën.
+
+  > Stafi i kompanisë Rimi Com ju mundëson transport të sigurtë në gjithë Kosovën.
+
+  >
+
+  >
+
+   [![Panel 3d](https://ucarecdn.com/aca50386-4ce0-4956-9fbc-df4a5672e1c0/)](https://rimi-ks.com/panel3d)
+
+  1. [Panela 3d - shiko koleksionin](https://rimi-ks.com/panel3d)
+
+
+  [![Panel 3d](https://ucarecdn.com/29932671-0c32-40ff-a7ca-50dd3ef684f3/)](https://rimi-ks.com/garnishte)
+
+
+  2. [Garnishte - shiko koleksionin](https://rimi-ks.com/garnishte)
+
+
+  [![Garnishte](https://ucarecdn.com/5a799a95-befd-4b7f-b4c8-0092a0448d11/)](https://rimi-ks.com/rrjeta)
+
+
+  3. [Rrjeta - shiko koleksionin](https://rimi-ks.com/rrjeta)
 section2: >-
   
 
@@ -32,20 +56,8 @@ section2: >-
 video: https://ucarecdn.com/990b54d5-56a8-4fa8-88f8-9a221ab49499/
 videoPoster: https://ucarecdn.com/5187351b-aeca-4c81-8693-e05438d6a0d1/
 videoTitle: Dere Rreshqitese me Motorr Automatik, pune profesionale e perfunduar. 🚘🏡
-accordion:
-  - title: pytje
-    description: pergjigje
-gallery:
-  - alt: Garnishte
-    image: https://ucarecdn.com/29932671-0c32-40ff-a7ca-50dd3ef684f3/
-    title: " [Kliko për të shikuar të gjitha
-      fotot](https://www.rimi-ks.com/garnishte/)"
-  - alt: rrjeta per gure
-    image: https://ucarecdn.com/38b62b0a-01ed-4b16-a9f1-34b10a4eee04/
-    title: Rrjeta per gurë
-  - alt: panel 3d
-    image: https://ucarecdn.com/3f6b9b7b-3673-450e-9c1b-3fcf57680521/
-    title: panel 3d
+accordion: []
+gallery: []
 meta:
   description: Sherbimet
   title: Produktet
