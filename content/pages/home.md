@@ -4,7 +4,9 @@ slug: ""
 title: Rimi Com
 featuredImage: https://ucarecdn.com/ad612ae0-4c6a-4101-b0f1-9d8b83bc6f5a/
 subtitle: "### \\- Ne bëjmë rrethojën!"
-accordion: []
+accordion:
+  - title: Sa vite garancion ofroni?
+    content: Ne ofrojme deri ne 50 vite garancion
 meta:
   description: |-
     Prodhues i Llamperis,Garnishteve, Llajsneve te Plastikes-PVC.
