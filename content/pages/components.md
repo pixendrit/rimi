@@ -1,33 +1,13 @@
 ---
 template: ComponentsPage
 slug: components
-title: Produktet & Shërbimet
+title: "Produktet "
 featuredImage: https://ucarecdn.com/a62f9a77-3e02-4d6f-a8db-9fc6f45d4bb6/
 subtitle: RIMI COM është ndër kompanitë e para në fushën e shërbimit dhe në
   procesin e prodhimit të llamperisë, garnishteve dhe llajsneve të plastikës, që
   nga viti 2002 🛡️.
 section1: >-
-  ## Sherbimet që ofrojmë:
-
-
-  1. Asistencë e shitjes
-
-  2. Kujdesi ndaj klientit
-
-  3. Agjenti i terrenit
-
-  4. Transport
-
-  5. Suport dhe garancion
-
-
-  > Stafi i kompanisë Rimi Com ju mundëson transport të sigurtë në gjithë Kosovën.
-
-  >
-
-  >
-
-
+  
   # [Panela 3d - shiko koleksionin👇](https://rimi-ks.com/panel3d)
 
    [![Panel 3d](https://ucarecdn.com/59f11066-6063-4e9a-be28-00d731354987/)](https://rimi-ks.com/panel3d)
