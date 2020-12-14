@@ -31,21 +31,21 @@ section1: >-
 
   >
 
-   [![Panel 3d](https://ucarecdn.com/aca50386-4ce0-4956-9fbc-df4a5672e1c0/)](https://rimi-ks.com/panel3d)
 
-  1. [Panela 3d - shiko koleksionin](https://rimi-ks.com/panel3d)
+  # [Panela 3d - shiko koleksionin👇](https://rimi-ks.com/panel3d)
 
+   [![Panel 3d](https://ucarecdn.com/59f11066-6063-4e9a-be28-00d731354987/)](https://rimi-ks.com/panel3d)
 
-  [![Panel 3d](https://ucarecdn.com/29932671-0c32-40ff-a7ca-50dd3ef684f3/)](https://rimi-ks.com/garnishte)
-
-
-  2. [Garnishte - shiko koleksionin](https://rimi-ks.com/garnishte)
+  # [Garnishte - shiko koleksionin👇](https://rimi-ks.com/garnishte)
 
 
-  [![Garnishte](https://ucarecdn.com/5a799a95-befd-4b7f-b4c8-0092a0448d11/)](https://rimi-ks.com/rrjeta)
+  [![Panel 3d](https://ucarecdn.com/b5bbbf62-839a-41b5-bf8a-a2d3d3f35c1b/)](https://rimi-ks.com/garnishte)
 
 
-  3. [Rrjeta - shiko koleksionin](https://rimi-ks.com/rrjeta)
+  # [Rrjeta - shiko koleksionin👇](https://rimi-ks.com/rrjeta)
+
+
+  [![Panel 3d](https://ucarecdn.com/62dac984-f462-4b0f-b463-738cb81b6594/)](https://rimi-ks.com/rrjeta)
 section2: >-
   
 
