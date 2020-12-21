@@ -33,6 +33,10 @@ Rimi Com është furnizues i materialeve të lidhura me rrethoja dhe rrethime p�
 
   [![Panel 3d](https://ucarecdn.com/59f11066-6063-4e9a-be28-00d731354987/)](https://rimi-ks.com/panel3d)
 
+
+# [Panela 2d - shiko koleksionin👇](https://rimi-ks.com/panel2d)
+[![Panel 2d](https://ucarecdn.com/2b6f3b1d-3bd4-42be-9b9d-2209c3d786e3/)](https://rimi-ks.com/panel2d)
+
   # [Garnishte - shiko koleksionin👇](https://rimi-ks.com/garnishte)
 
   [![Panel 3d](https://ucarecdn.com/b5bbbf62-839a-41b5-bf8a-a2d3d3f35c1b/)](https://rimi-ks.com/garnishte)
