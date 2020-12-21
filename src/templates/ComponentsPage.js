@@ -6,8 +6,7 @@ import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
 import BackgroundVideo from '../components/BackgroundVideo'
-import Gallery from '../components/Gallery'
-import Popup from '../components/Popup'
+
 
 // Export Template for use in CMS preview
 export const ComponentsPageTemplate = ({
