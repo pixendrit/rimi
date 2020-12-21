@@ -81,7 +81,7 @@ class Form extends React.Component {
                 name="firstname"
                 required
               />
-              <span>Firstname</span>
+              <span>Emri</span>
             </label>
             <label className="Form--Label">
               <input
@@ -91,7 +91,7 @@ class Form extends React.Component {
                 name="lastname"
                 required
               />
-              <span>Lastname</span>
+              <span>Mbiemri</span>
             </label>
           </div>
           <fieldset>
@@ -103,7 +103,7 @@ class Form extends React.Component {
                 value="male"
                 defaultChecked
               />
-              <span>Male</span>
+              <span>Mashkull</span>
             </label>
             <label className="Form--Label Form--Radio">
               <input
@@ -112,7 +112,7 @@ class Form extends React.Component {
                 name="gender"
                 value="female"
               />
-              <span>Female</span>
+              <span>Femër</span>
             </label>
           </fieldset>
           <label className="Form--Label">
@@ -123,7 +123,17 @@ class Form extends React.Component {
               name="emailAddress"
               required
             />
-            <span>Email address</span>
+            <span>Email adresa </span>
+          </label>
+          <label className="Form--Label">
+            <input
+              className="Form--Input Form--InputText"
+              type="phone"
+              placeholder="Phone"
+              name="phoneNumber"
+              optional
+            />
+            <span>Nr tel</span>
           </label>
           <label className="Form--Label has-arrow">
             <select
@@ -133,11 +143,10 @@ class Form extends React.Component {
               required
             >
               <option disabled hidden>
-                Type of Enquiry
+                Lloji i kërkesës
               </option>
-              <option>Need to know more</option>
-              <option>Found a bug</option>
-              <option>Want to say hello</option>
+              <option>Ofertë per blerje</option>
+              <option>Kërkoj takim për konsulltime</option>
             </select>
           </label>
           <label className="Form--Label">
@@ -148,16 +157,9 @@ class Form extends React.Component {
               rows="10"
               required
             />
-            <span>Message</span>
+            <span>Mesazhi juaj</span>
           </label>
-          <label className="Form--Label Form-Checkbox">
-            <input
-              className="Form--Input Form--Textarea Form--CheckboxInput"
-              name="newsletter"
-              type="checkbox"
-            />
-            <span>Get news updates</span>
-          </label>
+       
           <div
             className="g-recaptcha"
             data-sitekey="6LfKN3kUAAAAAGIM1CbXmaRZx3LIh_W2twn1tzkA"
@@ -167,7 +169,7 @@ class Form extends React.Component {
           <input
             className="Button Form--SubmitButton"
             type="submit"
-            value="Enquire"
+            value="Dergo Mesazhin"
             disabled={this.state.disabled}
           />
         </form>
