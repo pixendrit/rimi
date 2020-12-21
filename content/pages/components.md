@@ -12,6 +12,11 @@ section1: >-
 
    [![Panel 3d](https://ucarecdn.com/59f11066-6063-4e9a-be28-00d731354987/)](https://rimi-ks.com/panel3d)
 
+  # [Panela 2d - shiko koleksionin👇](https://rimi-ks.com/panel2d)
+
+  [![Panel 2d](https://ucarecdn.com/2b6f3b1d-3bd4-42be-9b9d-2209c3d786e3/)](https://rimi-ks.com/panel2d)
+
+
   # [Garnishte - shiko koleksionin👇](https://rimi-ks.com/garnishte)
 
 
