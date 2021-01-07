@@ -6,8 +6,8 @@ featuredImage: https://ucarecdn.com/a62f9a77-3e02-4d6f-a8db-9fc6f45d4bb6/
 subtitle: RIMI COM është ndër kompanitë e para në fushën e shërbimit dhe në
   procesin e prodhimit të llamperisë, garnishteve dhe llajsneve të plastikës, që
   nga viti 2002 🛡️.
-section1: >-
-  
+
+section2: >-
   # [Panela 3d - shiko koleksionin👇](https://rimi-ks.com/panel3d)
 
    [![Panel 3d](https://ucarecdn.com/59f11066-6063-4e9a-be28-00d731354987/)](https://rimi-ks.com/panel3d)
@@ -27,22 +27,27 @@ section1: >-
 
 
   [![Panel 3d](https://ucarecdn.com/62dac984-f462-4b0f-b463-738cb81b6594/)](https://rimi-ks.com/rrjeta)
-section2: >-
-  
+
+
 
   ## Qëllimi ynë është të sigurojmë një shërbim cilësor për klientët tanë kurdoherë që na kontaktojnë, përmes telefonit ose e-mailit
 
 
   > Ofrojmë shërbime me garancion të plotë
+
 video: https://ucarecdn.com/990b54d5-56a8-4fa8-88f8-9a221ab49499/
 videoPoster: https://ucarecdn.com/5187351b-aeca-4c81-8693-e05438d6a0d1/
 videoTitle: Dere Rreshqitese me Motorr Automatik, pune profesionale e perfunduar. 🚘🏡
 accordion:
   - title: Sa vite garancion ofroni?
     description: Ne ofrojme 20 vite garancion
+
 gallery:
-  - image: https://ucarecdn.com/86b77908-cd79-43d5-9ad2-17e0e43bd0d8/
-    alt: detaje
+    - image: https://ucarecdn.com/71070346-d017-45e5-884c-4499498a8d3e/
+      alt: rimi com
+      title: Elementet ndihmëse të cilat përdoren për të lidhur pajisjet e sistemeve të Paneleve 3D me njëri-tjetrin dhe për t'i montuar.
+  
+ 
 meta:
   description: Sherbimet
   title: Produktet

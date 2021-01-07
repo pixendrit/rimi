@@ -6,6 +6,7 @@ import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
 import BackgroundVideo from '../components/BackgroundVideo'
+import Gallery from '../components/Gallery'
 
 
 // Export Template for use in CMS preview
@@ -13,13 +14,11 @@ export const ComponentsPageTemplate = ({
   title,
   subtitle,
   featuredImage,
-  section1,
   section2,
   video,
   videoPoster,
   videoTitle,
   accordion,
-  body,
   gallery
 }) => (
   <main>
@@ -30,15 +29,17 @@ export const ComponentsPageTemplate = ({
     />
     <section className="section">
       <div className="container">
-        <Content source={section1} />
+        <Content source={section2} />
       </div>
     </section>
 
     <section className="section">
       <div className="container">
-        <Content source={section2} />
+        <Gallery images={gallery} />
       </div>
     </section>
+
+    
 
     <section className="BackgroundVideo-section section">
       <BackgroundVideo poster={videoPoster} videoTitle={videoTitle}>
@@ -77,7 +78,6 @@ export const pageQuery = graphql`
         template
         subtitle
         featuredImage
-        section1
         section2
         video
         videoPoster
