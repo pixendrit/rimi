@@ -1,9 +1,9 @@
 ---
 template: ComponentsPage
-slug: rrjeta
-title: "Rrjeta"
+slug: garnishte
+title: "Garnishte"
 featuredImage: https://ucarecdn.com/6bbad12c-43b9-4045-a05b-cb9232d30488/
-subtitle: Koleksioni i rrjetave
+subtitle: Koleksioni i garnishteve
 
 gallery:
     - image: https://ucarecdn.com/69abeff1-c513-4fb5-9e2b-7bd4a348d0d9/
