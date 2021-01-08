@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-slug: garnishte
+slug: garnishtebackup
 title: Garnishte
 featuredImage: https://ucarecdn.com/b8bc824b-8080-426f-b817-0d104421fb8e/
 meta:
