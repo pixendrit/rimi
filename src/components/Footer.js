@@ -5,9 +5,9 @@ import GoogleMap2 from './GoogleMap2'
 
 export default () => (
   <div>
-    <h2>Lokacioni në Babush</h2>
+    <h2 class="dark h2 taCenter">Lokacioni në Babush</h2>
     <GoogleMap />
-    <h2>Lokacioni në Ferizaj</h2>
+    <h2 class="dark h2 taCenter">Lokacioni në Ferizaj</h2>
     <GoogleMap2 />
     <div className="special">
   <ul>

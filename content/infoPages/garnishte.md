@@ -6,54 +6,49 @@ featuredImage: https://ucarecdn.com/b8bc824b-8080-426f-b817-0d104421fb8e/
 subtitle: Koleksioni i garnishteve
 
 gallery:
-    - image: https://ucarecdn.com/e34a9745-e2a4-4f8b-8f68-5e2ce0c492b4/
+    - image: https://ucarecdn.com/a7aa6c1c-1d01-4f18-ae29-24f0e4502833/
       alt: garnishte
-    - image: https://ucarecdn.com/9de5236a-59f3-43ac-9461-b3c671246f81/
+    - image: https://ucarecdn.com/f9001ba8-c453-4e38-85c4-1226c0d61dd2/
       alt: garnishte
-    - image: https://ucarecdn.com/3f9b3643-f77e-4603-84d6-f63110c6e643/
+    - image: https://ucarecdn.com/5f9e4453-4212-435e-80f4-94c2f9051a65/
       alt: garnishte
-    - image: https://ucarecdn.com/af93581d-6eaf-485f-9b66-3acbd1e4eb98/
+    - image: https://ucarecdn.com/8285779f-f6b1-4911-beac-d9c7796274bb/
       alt: garnishte
-    - image: https://ucarecdn.com/b9c3c7c1-5a60-4726-9a6b-d2e243c9db1f/
+    - image: https://ucarecdn.com/b6ee3b9f-3f6a-4d22-acdd-6d2e98cdd97b/
       alt: garnishte
-    - image: https://ucarecdn.com/4f84660c-3884-4964-8528-431c28aea36d/
+    - image: https://ucarecdn.com/02963a68-4414-472e-bec4-bcc76eaf842a/
       alt: garnishte
-    - image: https://ucarecdn.com/4f84660c-3884-4964-8528-431c28aea36d/
+    - image: https://ucarecdn.com/d4826ae0-e9c0-41b0-a729-7bbc79f16e01/
       alt: garnishte
-    - image: https://ucarecdn.com/219ae7d1-9dca-4818-a9c2-5e55dfb8a64f/
+    - image: https://ucarecdn.com/b94cd41d-e6c9-4043-b4ae-9af103fff77b/
       alt: garnishte
-    - image: https://ucarecdn.com/08933d33-83c9-46a9-9dcd-d83d84565de4/
+    - image: https://ucarecdn.com/811585d1-b87b-46af-b17d-7a6f0df5cc96/
       alt: garnishte
-    - image: https://ucarecdn.com/2086fd8a-9b1e-48fa-8512-4166742640e4/
+    - image: https://ucarecdn.com/b381a4e9-6c1b-454b-9e98-bfa61732db94/
       alt: garnishte
-    - image: https://ucarecdn.com/d08f3b4b-a553-4db1-bf6b-bee45c89e9bb/
+    - image: https://ucarecdn.com/d830774a-dca6-4317-874c-5e55cfea8d7e/
       alt: garnishte
-    - image: https://ucarecdn.com/ee98399f-3034-4dcf-85dd-e1ad77d82558/
+    - image: https://ucarecdn.com/25b74e0a-f744-4d6e-a9c9-356674d90e58/
       alt: garnishte
-    - image: https://ucarecdn.com/50a29bb2-a47b-42f7-89fa-cfb6750ec3a2/
+    - image: https://ucarecdn.com/1e082950-24e0-4bbe-8381-8fb91f7df09f/
       alt: garnishte
-    - image: https://ucarecdn.com/df6b80fc-9acd-4d00-8f62-3355aa6e03c1/
+    - image: https://ucarecdn.com/84de265a-6469-47de-8370-4410736be31f/
       alt: garnishte
-    - image: https://ucarecdn.com/fdebf054-9519-4349-b858-614b568733e0/
+    - image: https://ucarecdn.com/eb4a65aa-5556-46fe-8889-8501e369b951/
       alt: garnishte
-    - image: https://ucarecdn.com/3f1d0d29-9a2a-4538-8406-64e4037fc1cc/
+    - image: https://ucarecdn.com/8591340b-d04a-477f-b21b-d02fe00f762f/
       alt: garnishte
-    - image: https://ucarecdn.com/22adbc84-b546-4de7-bfb3-7cf329c88a3d/
+    - image: https://ucarecdn.com/e2dd8e1b-439a-4986-8e2b-d960bb11b0a7/
       alt: garnishte
-    - image: https://ucarecdn.com/3ae8e9c1-0997-4d52-8ad0-50de5174bc04/
+    - image: https://ucarecdn.com/d3c179ce-84c3-4fe3-9c93-83c40c55a010/
       alt: garnishte
-    - image: https://ucarecdn.com/5cd0c5cb-55e6-424b-9364-9c9a8939a269/
+    - image: https://ucarecdn.com/7ce02961-32b3-41ea-8cc2-fb6c28dd2c0d/
       alt: garnishte
-    - image: https://ucarecdn.com/16ad24f6-d64a-42a5-abc3-666c5ac64110/
+    - image: https://ucarecdn.com/4f3c7282-7028-479d-bea6-8852be970d81/
       alt: garnishte
-    - image: https://ucarecdn.com/4b81d439-38e1-4428-ac75-660ad83b0b5e/
+    - image: https://ucarecdn.com/d90104ca-a594-4673-b021-20f971d2ada8/
       alt: garnishte
-    - image: https://ucarecdn.com/a9b675fe-50bc-4073-8736-38110de69d1b/
-      alt: garnishte
-    - image: https://ucarecdn.com/28b3d4e4-a99e-4017-a3fb-21fac5cecf17/
-      alt: garnishte
-    - image: https://ucarecdn.com/d2b777a3-44dd-4ac0-8535-695bd9e245f2/
-      alt: garnishte
+ 
   
 meta:
   description: Garnishte
