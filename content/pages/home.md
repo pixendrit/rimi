@@ -26,24 +26,20 @@ Rimi Com është furnizues i materialeve të lidhura me rrethoja dhe rrethime p�
 * Rrjeta të salduara
  
 
- # [Katallogu i panellave👇](https://rimi-ks.com/katalogu)
+## [Katallogu i panellave👇](https://rimi-ks.com/katalogu)
+[![Panel 3d](https://ucarecdn.com/02858c1f-24ed-43ea-9c39-c749658dd107/)](https://rimi-ks.com/katalogu)
 
-  ![Panel 3d](https://ucarecdn.com/4ade8350-3460-4739-aee1-7825c8759545/)
-  # [Panela 3d - shiko koleksionin👇](https://rimi-ks.com/katalogu)
+## [Panela 3d - shiko koleksionin👇](https://rimi-ks.com/katalogu)
+[![Panel 3d](https://ucarecdn.com/8e6951ff-f2c7-4559-9de3-f4c553da5057/)](https://rimi-ks.com/panel3d)
 
-  [![Panel 3d](https://ucarecdn.com/59f11066-6063-4e9a-be28-00d731354987/)](https://rimi-ks.com/panel3d)
+## [Panela 2d - shiko koleksionin👇](https://rimi-ks.com/panel2d)
+[![Panel 2d](https://ucarecdn.com/b0de7254-a526-4f03-b87f-9c9d1b7417eb/)](https://rimi-ks.com/panel2d)
 
+## [Garnishte - shiko koleksionin👇](https://rimi-ks.com/garnishte)
+[![Panel 3d](https://ucarecdn.com/f4fa2670-7693-49c2-8309-462bb2bb04ab/)](https://rimi-ks.com/garnishte)
 
-# [Panela 2d - shiko koleksionin👇](https://rimi-ks.com/panel2d)
-[![Panel 2d](https://ucarecdn.com/2b6f3b1d-3bd4-42be-9b9d-2209c3d786e3/)](https://rimi-ks.com/panel2d)
-
-  # [Garnishte - shiko koleksionin👇](https://rimi-ks.com/garnishte)
-
-  [![Panel 3d](https://ucarecdn.com/b5bbbf62-839a-41b5-bf8a-a2d3d3f35c1b/)](https://rimi-ks.com/garnishte)
-
-  # [Rrjeta - shiko koleksionin👇](https://rimi-ks.com/rrjeta)
-
-  [![Panel 3d](https://ucarecdn.com/62dac984-f462-4b0f-b463-738cb81b6594/)](https://rimi-ks.com/rrjeta)
+## [Rrjeta - shiko koleksionin👇](https://rimi-ks.com/rrjeta)
+[![Panel 3d](https://ucarecdn.com/72147bd5-1019-45af-a331-1c1797b44ddd/)](https://rimi-ks.com/rrjeta)
 
  ## Sherbimet që ofrojmë:
 
@@ -54,5 +50,6 @@ Rimi Com është furnizues i materialeve të lidhura me rrethoja dhe rrethime p�
   5. Suport dhe garancion
 
   > Stafi i kompanisë Rimi Com ju mundëson transport të sigurtë në gjithë Kosovën.
+
 
 ## [Vizitoni produktet](https://rimi-ks.com/components/)

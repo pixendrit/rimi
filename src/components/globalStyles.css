@@ -154,8 +154,8 @@ blockquote {
 
 .section {
   width: 100%;
-  padding: 5rem 0;
-  border-bottom: 1px solid #f1f1f1;
+  padding: 5rem 5rem;
+  border-bottom: 5px solid #f1f1f1;
 }
 .section:last-child {
   border: 0;
@@ -170,7 +170,7 @@ blockquote {
   padding: 0;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
   .section {
     width: 100%;
     padding: 5rem 0;
@@ -184,7 +184,7 @@ blockquote {
 }
 
 .container  {
-  max-width: 1111px;
+  max-width: 900px;
   width: 90%;
   margin: 0 auto;
 }
