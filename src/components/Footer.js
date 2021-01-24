@@ -1,8 +1,14 @@
 import React from 'react'
 import './Footer.css'
+import GoogleMap from './GoogleMap'
+import GoogleMap2 from './GoogleMap2'
 
 export default () => (
   <div>
+    <h2>Lokacioni në Babush</h2>
+    <GoogleMap />
+    <h2>Lokacioni në Ferizaj</h2>
+    <GoogleMap2 />
     <div className="special">
   <ul>
     <li><a href="https://www.facebook.com/Rimi-Com-422097234550609">Facebook</a></li>
