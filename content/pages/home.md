@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Rimi Com
-featuredImage: https://ucarecdn.com/ad612ae0-4c6a-4101-b0f1-9d8b83bc6f5a/
+featuredImage: https://ucarecdn.com/8a4feb94-debe-40ae-a6b9-7fd84e649688/
 subtitle: "### \\- Ne bëjmë rrethojën!"
 accordion:
   - title: Sa vite garancion ofroni?
@@ -20,7 +20,6 @@ Rimi Com është furnizues i materialeve të lidhura me rrethoja dhe rrethime p�
 # Produktet
 
 * Panel 3d - rrethojë për kopshte, objekte
-* Llamperia
 * Garnishte
 * Rrjeta të gurëve (Gabion Box)
 * Rrjeta të salduara
