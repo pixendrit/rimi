@@ -40,6 +40,9 @@ Rimi Com është furnizues i materialeve të lidhura me rrethoja dhe rrethime p�
 ## [Rrjeta - shiko koleksionin👇](https://rimi-ks.com/rrjeta)
 [![Panel 3d](https://ucarecdn.com/72147bd5-1019-45af-a331-1c1797b44ddd/)](https://rimi-ks.com/rrjeta)
 
+## [Rrjeta të gurëve (Gabion box) - shiko koleksionin👇](https://rimi-ks.com/rrjeta)
+[![Panel 3d](https://ucarecdn.com/ad7099f9-24dc-41b1-84ec-76158e4d5d8d/)](https://rimi-ks.com/rrjetagabion)
+
 
  ## Sherbimet që ofrojmë:
 

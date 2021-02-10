@@ -26,6 +26,8 @@ section2: >-
 
   ## [Rrjeta - shiko koleksionin👇](https://rimi-ks.com/rrjeta)
   [![Panel 3d](https://ucarecdn.com/72147bd5-1019-45af-a331-1c1797b44ddd/)](https://rimi-ks.com/rrjeta)
+  ## [Rrjeta të gurëve (Gabion box) - shiko koleksionin👇](https://rimi-ks.com/rrjeta)
+  [![Panel 3d](https://ucarecdn.com/ad7099f9-24dc-41b1-84ec-76158e4d5d8d/)](https://rimi-ks.com/rrjetagabion)
 
 video: https://ucarecdn.com/990b54d5-56a8-4fa8-88f8-9a221ab49499/
 videoPoster: https://ucarecdn.com/5187351b-aeca-4c81-8693-e05438d6a0d1/
